@@ -56,6 +56,7 @@ export class ProgressCircle extends Component {
     thickness: 3,
     endAngle: 0.9,
     allowFontScaling: true,
+    fill: 'transparent',
   };
 
   constructor(props, context) {
